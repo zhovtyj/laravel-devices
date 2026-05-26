@@ -2,7 +2,7 @@
     <img src="./.github/assets/logo.png" alt="Laravel Devices Logo"/>
 </p>
 
-[![Laravel Package](https://img.shields.io/badge/Laravel%2010+%20Package-red?logo=laravel&logoColor=white)](https://www.laravel.com)
+[![Laravel Package](https://img.shields.io/badge/Laravel%2010--13%20Package-red?logo=laravel&logoColor=white)](https://www.laravel.com)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/diego-ninja/laravel-devices.svg?style=flat&color=blue)](https://packagist.org/packages/diego-ninja/laravel-devices)
 [![Total Downloads](https://img.shields.io/packagist/dt/diego-ninja/laravel-devices.svg?style=flat&color=blue)](https://packagist.org/packages/diego-ninja/laravel-devices)
 ![PHP Version](https://img.shields.io/packagist/php-v/diego-ninja/cosmic.svg?style=flat&color=blue)
